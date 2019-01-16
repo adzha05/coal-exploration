@@ -1,2 +1,2 @@
 # titanic_project
-Kaggle titanic problem analysis
+Kaggle titanic problem:  exploratory data analysis
